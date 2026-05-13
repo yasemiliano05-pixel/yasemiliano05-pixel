@@ -47,7 +47,8 @@ Atualmente estudo:
 ## 🎧 Tocando agora
 
 - Charlie Brown Jr.
-- Trap
+- Rap
 - MPB
 - Rock
-- Lo-fi
+- Pop
+- Sertanejo
