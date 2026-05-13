@@ -1,8 +1,5 @@
 ## Olá mundo 👋
 
-<!--
-**yasemiliano05-pixel/yasemiliano05-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 👩‍💻 Sobre mim
 
 Olá! Me chamo Yasmin Emiliano Alves e atualmente estou cursando Sistemas para Internet.
