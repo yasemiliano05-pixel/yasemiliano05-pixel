@@ -29,7 +29,7 @@ Atualmente estudo:
 
 💻 Estudante de Sistemas para Internet  
 🎨 Apaixonada por tecnologia, design e interfaces criativas  
-🎵 Muito fã do Chorão e apaixonada por música  
+🎵 Muito fã do Chorão "O impossivel é só quesão de opinião" 
 🤝 Valorizo amizades verdadeiras e trabalho em equipe  
 🚀 Em constante evolução na área de desenvolvimento
 
