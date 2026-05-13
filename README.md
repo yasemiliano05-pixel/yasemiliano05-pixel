@@ -49,6 +49,5 @@ Atualmente estudo:
 - Charlie Brown Jr.
 - Rap
 - MPB
-- Rock
 - Pop
 - Sertanejo
