@@ -22,7 +22,6 @@ Atualmente estudo:
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/yasmin-emiliano-alves-ba98a52bb/
 - Email: yas.emiliano05@gmail.com
 
 ## ✨ Sobre mim
