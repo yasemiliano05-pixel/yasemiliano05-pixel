@@ -74,13 +74,6 @@ Acredito que cada projeto é uma oportunidade de experimentar, errar, corrigir e
 
 > Adicione os links dos seus melhores repositórios aqui conforme seus projetos forem evoluindo.
 
-## 🐍 `contribution_snake`
-
-<div align="center">
-
-![Snake animation](./github-contribution-grid-snake.svg)
-
-</div>
 
 ## 🎯 `current_mission`
 
@@ -196,10 +189,8 @@ Meu objetivo é desenvolver minhas habilidades, criar projetos cada vez melhores
 
 <br/><br/>
 
-<sub>Obrigada por passar pelo meu cantinho da internet. 💜</sub>
+<sub>🖤 Obrigada por visitar meu perfil. Até o próximo commit!</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B12,50:352052,100:9D6BFF&height=100&section=footer" alt="Rodapé decorativo roxo" />
 
- 
-<sub>🖤 Obrigada por visitar meu perfil. Até o próximo commit!</sub>
 </div> 
