@@ -1,3 +1,9 @@
+## 🐍 Minha cobrinha de contribuições
+
+![Snake animation](./github-contribution-grid-snake.svg)
+
+---
+
 # 👾 Olá, mundo! Eu sou a Yasmin
 
 <div align="center">
@@ -7,14 +13,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-B388FF?style=for-the-badge&labelColor=0D0B12" alt="Status em evolução" />
-
-</div>
-
----
-<div>
-## 🐍 Minha cobrinha de contribuições
-
-![Snake animation](./github-contribution-grid-snake.svg)
 
 </div>
 
