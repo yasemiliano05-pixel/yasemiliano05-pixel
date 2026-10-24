@@ -1,9 +1,9 @@
 # Olá mundo 👋
 
-
 ## 🐍 Minha cobrinha de contribuições
 
-![Snake animation](https://raw.githubusercontent.com/yasemiliano05-pixel/yasemiliano05-pixel/output/github-snake.svg)
+![Snake animation](./github-contribution-grid-snake.svg)
+
 
 
 ## 👩‍💻 Sobre mim
