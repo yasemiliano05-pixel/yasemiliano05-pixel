@@ -103,52 +103,105 @@ Meu objetivo é desenvolver minhas habilidades, criar projetos cada vez melhores
 
 <br/><br/>
 
-<sub>🖤 Obrigada por visitar meu perfil. Até o próximo commit!</sub>
+</div>
+
+## 💜 `01. about_me`
+
+```text
+┌──────────────────────────────────────────┐
+│  Yasmin Emiliano Alves                   │
+│  Internet Systems student                │
+│  Front-End Development in progress...     │
+└──────────────────────────────────────────┘
+```
+
+💻 Estudante de **Sistemas para Internet**, explorando o universo do desenvolvimento web e transformando ideias em projetos.
+
+🎨 Gosto de criar interfaces criativas, experimentar combinações visuais e unir tecnologia com design.
+
+🎧 A música faz parte de quem eu sou — especialmente Charlie Brown Jr. 💜
+
+🤝 Acredito na força das amizades verdadeiras, na colaboração e no aprendizado compartilhado.
+
+> *"O impossível é só questão de opinião."* — Charlie Brown Jr.
+
+---
+
+## 🖥️ `02. currently_learning`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,mysql&theme=dark" alt="Tecnologias e ferramentas em estudo" />
 
 </div>
 
-## 👩‍💻 Sobre mim
+<details>
+<summary>💻 O que estou explorando?</summary>
 
-💻 Estudante de Sistemas para Internet  
-🎨 Apaixonada por tecnologia, design e interfaces criativas  
-🎵 Muito fã do Chorão "O impossivel é só quesão de opinião"
+- **HTML:** estruturação de páginas web.
+- **CSS:** estilos, layouts e identidade visual.
+- **JavaScript:** lógica e interatividade.
+- **Figma:** prototipação e design de interfaces.
+- **Git & GitHub:** versionamento e organização de projetos.
+- **Banco de dados:** modelagem, tabelas e relacionamentos.
 
-🤝 Valorizo amizades verdadeiras e trabalho em equipe  
-🚀 Em constante evolução na área de desenvolvimento
+</details>
 
-Atualmente estudo:
-- HTML
-- CSS
-- JavaScript
-- Figma
-- Git & GitHub
+---
 
-## 🎯 Objetivos
+## 🎯 `03. next_level`
 
-- Evoluir como desenvolvedora Front-End
-- Criar interfaces modernas e acessíveis
-- Trabalhar com tecnologia e design
-- Construir projetos reais para portfólio
+- [ ] Evoluir minhas habilidades em Front-End.
+- [ ] Criar interfaces modernas, acessíveis e responsivas.
+- [ ] Desenvolver projetos cada vez mais completos.
+- [ ] Aprimorar meus conhecimentos em banco de dados.
+- [ ] Construir um portfólio com projetos reais.
+- [ ] Continuar aprendendo e explorando novas tecnologias.
 
-## 📫 Contato
+---
 
-- Email: yas.emiliano05@gmail.com
+## 🎨 `04. beyond_the_code`
 
-## ☕ Coisas que eu gosto
+<div align="center">
 
-🎵 Música  
-🎨 Design  
-💻 Programação  
-🌙 Madrugar criando projetos  
-📷 Estética clean e dark  
-🤍 Tempo com amigos
+| 💜 | O que faz parte de mim |
+|:---:|---|
+| 🎵 | Música e Charlie Brown Jr. |
+| 🎨 | Design e referências visuais |
+| 🌙 | Madrugadas criando projetos |
+| 🖤 | Estética clean, dark e roxa |
+| 🤍 | Amizades e momentos especiais |
 
+</div>
 
-## 🎧 Tocando agora
+---
 
-- Charlie Brown Jr.
-- Rap
-- MPB
-- Pop
-- Sertanejo
+## 🎧 `05. currently_on_repeat`
 
+<div align="center">
+
+**Minha playlist, meu código, minha vibe.**
+
+🎸 Charlie Brown Jr. · 🎤 Rap · 🎶 MPB · 💜 Pop · 🤠 Sertanejo
+
+</div>
+
+---
+
+## 📬 `06. let's_connect`
+
+<div align="center">
+
+<a href="mailto:yas.emiliano05@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-B388FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0B12" alt="Enviar e-mail" />
+</a>
+
+<br/><br/>
+
+<sub>Obrigada por passar pelo meu cantinho da internet. 💜</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B12,50:352052,100:9D6BFF&height=100&section=footer" alt="Rodapé decorativo roxo" />
+
+ 
+<sub>🖤 Obrigada por visitar meu perfil. Até o próximo commit!</sub>
+</div> 
