@@ -1,5 +1,3 @@
-# Olá mundo 👋
-
 ## 🐍 Minha cobrinha de contribuições
 
 ![Snake animation](./github-contribution-grid-snake.svg)
