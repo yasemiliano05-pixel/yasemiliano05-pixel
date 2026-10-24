@@ -1,6 +1,6 @@
 # Olá mundo 👋
 
-![Snake Game](https://githubusercontent.com)
+<img src="https://githubusercontent.com" alt="Jogo da Cobrinha">
 
 ## 👩‍💻 Sobre mim
 
