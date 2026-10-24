@@ -1,10 +1,6 @@
 # Olá mundo 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com">
-  <img alt="Jogo da Cobrinha" src="https://github.com">
-</picture>
+![Jogo da Cobrinha](https://github.com)
 
 
 ## 👩‍💻 Sobre mim
