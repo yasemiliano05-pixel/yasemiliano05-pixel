@@ -1,6 +1,10 @@
 # Olá mundo 👋
 
-![Jogo da Cobrinha](https://githubusercontent.com)
+
+## 🐍 Minha cobrinha de contribuições
+
+![Snake animation](https://raw.githubusercontent.com/yasemiliano05-pixel/yasemiliano05-pixel/output/github-snake.svg)
+
 
 ## 👩‍💻 Sobre mim
 
