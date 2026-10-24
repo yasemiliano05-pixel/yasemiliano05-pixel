@@ -1,7 +1,7 @@
 ## Olá mundo 👋
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Jogo da Cobrinha" />
+  <img src="https://github.com" alt="Jogo da Cobrinha" />
 </p>
 
 ## 👩‍💻 Sobre mim
