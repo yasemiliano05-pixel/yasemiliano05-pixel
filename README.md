@@ -1,8 +1,6 @@
 ## Olá mundo 👋
 
-<p align="center">
-  <img src="https://github.com" alt="Jogo da Cobrinha" />
-</p>
+![Jogo da Cobrinha](./assets/github-snake.svg)
 
 ## 👩‍💻 Sobre mim
 
