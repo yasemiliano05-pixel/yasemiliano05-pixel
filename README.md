@@ -2,6 +2,7 @@
 
 ![Jogo da Cobrinha](https://githubusercontent.com)
 
+
 ## 👩‍💻 Sobre mim
 
 Olá! Me chamo Yasmin Emiliano Alves e atualmente estou cursando Sistemas para Internet.
