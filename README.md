@@ -1,6 +1,6 @@
 ## Olá mundo 👋
 
-![Jogo da Cobrinha](https://github.com)
+![Jogo da Cobrinha](https://githubusercontent.com)
 
 ## 👩‍💻 Sobre mim
 
