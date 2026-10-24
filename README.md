@@ -10,9 +10,13 @@
 
 </div>
 
+---
+<div>
 ## 🐍 Minha cobrinha de contribuições
 
 ![Snake animation](./github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
