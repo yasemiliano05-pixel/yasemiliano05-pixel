@@ -1,6 +1,11 @@
 # Olá mundo 👋
 
-[![Jogo da Cobrinha](https://vercel.app)](https://github.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="Jogo da Cobrinha" src="https://githubusercontent.com">
+</picture>
+
 
 
 ## 👩‍💻 Sobre mim
