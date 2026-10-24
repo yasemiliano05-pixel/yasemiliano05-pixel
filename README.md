@@ -6,14 +6,13 @@
 
 <br/>
 
-## 🐍 Minha cobrinha de contribuições
-
-![Snake animation](./github-contribution-grid-snake.svg)
-
-
 <img src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-B388FF?style=for-the-badge&labelColor=0D0B12" alt="Status em evolução" />
 
 </div>
+
+## 🐍 Minha cobrinha de contribuições
+
+![Snake animation](./github-contribution-grid-snake.svg)
 
 ---
 
