@@ -4,7 +4,6 @@
   <img src="https://githubusercontent.com" alt="Jogo da Cobrinha" />
 </p>
 
-
 ## 👩‍💻 Sobre mim
 
 Olá! Me chamo Yasmin Emiliano Alves e atualmente estou cursando Sistemas para Internet.
