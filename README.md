@@ -1,7 +1,3 @@
-## 🐍 Minha cobrinha de contribuições
-
-![Snake animation](./github-contribution-grid-snake.svg)
-
 # 👾 Olá, mundo! Eu sou a Yasmin
 
 <div align="center">
@@ -9,6 +5,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+para+Internet;Explorando+o+universo+do+Front-End;Transformando+ideias+em+c%C3%B3digo" alt="Animação de apresentação" />
 
 <br/>
+
+## 🐍 Minha cobrinha de contribuições
+
+![Snake animation](./github-contribution-grid-snake.svg)
+
 
 <img src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-B388FF?style=for-the-badge&labelColor=0D0B12" alt="Status em evolução" />
 
