@@ -61,22 +61,6 @@ Acredito que cada projeto é uma oportunidade de experimentar, errar, corrigir e
 
 </div>
 
-## 🧩 `featured_projects`
-
-<div align="center">
-
-**Onde as ideias começam a virar código.**
-
-</div>
-
-- 💻 **Projetos acadêmicos:** aplicações desenvolvidas durante a faculdade.
-- 🎨 **Interfaces Web:** experimentos com estrutura, estilos e identidade visual.
-- 🗄️ **Banco de dados:** aprendizados sobre modelagem, tabelas e relacionamentos.
-- 🚀 **Em construção:** novos projetos e desafios para colocar meus conhecimentos em prática.
-
-> Adicione os links dos seus melhores repositórios aqui conforme seus projetos forem evoluindo.
-
-
 ## 🎯 `current_mission`
 
 ```text
