@@ -94,10 +94,6 @@ Meu objetivo é desenvolver minhas habilidades, criar projetos cada vez melhores
 
 💻 Estudante de **Sistemas para Internet**, explorando o universo do desenvolvimento web e transformando ideias em projetos.
 
-🎨 Gosto de criar interfaces criativas, experimentar combinações visuais e unir tecnologia com design.
-
-🎧 A música faz parte de quem eu sou — especialmente Charlie Brown Jr. 💜
-
 🤝 Acredito na força das amizades verdadeiras, na colaboração e no aprendizado compartilhado.
 
 > *"O impossível é só questão de opinião."* — Charlie Brown Jr.
