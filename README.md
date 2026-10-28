@@ -128,60 +128,9 @@ Meu objetivo é desenvolver minhas habilidades, criar projetos cada vez melhores
 
 </div>
 
-<details>
-<summary>💻 O que estou explorando?</summary>
-
-- **HTML:** estruturação de páginas web.
-- **CSS:** estilos, layouts e identidade visual.
-- **JavaScript:** lógica e interatividade.
-- **Figma:** prototipação e design de interfaces.
-- **Git & GitHub:** versionamento e organização de projetos.
-- **Banco de dados:** modelagem, tabelas e relacionamentos.
-
-</details>
-
 ---
 
-## 🎯 `03. next_level`
-
-- [ ] Evoluir minhas habilidades em Front-End.
-- [ ] Criar interfaces modernas, acessíveis e responsivas.
-- [ ] Desenvolver projetos cada vez mais completos.
-- [ ] Aprimorar meus conhecimentos em banco de dados.
-- [ ] Construir um portfólio com projetos reais.
-- [ ] Continuar aprendendo e explorando novas tecnologias.
-
----
-
-## 🎨 `04. beyond_the_code`
-
-<div align="center">
-
-| 💜 | O que faz parte de mim |
-|:---:|---|
-| 🎵 | Música e Charlie Brown Jr. |
-| 🎨 | Design e referências visuais |
-| 🌙 | Madrugadas criando projetos |
-| 🖤 | Estética clean, dark e roxa |
-| 🤍 | Amizades e momentos especiais |
-
-</div>
-
----
-
-## 🎧 `05. currently_on_repeat`
-
-<div align="center">
-
-**Minha playlist, meu código, minha vibe.**
-
-🎸 Charlie Brown Jr. · 🎤 Rap · 🎶 MPB · 💜 Pop · 🤠 Sertanejo
-
-</div>
-
----
-
-## 📬 `06. let's_connect`
+## 📬 `03. let's_connect`
 
 <div align="center">
 
